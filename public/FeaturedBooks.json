@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "11",
+    "title": "To Kill a Mockingbird",
+    "service_id": "001",
+    "image": "https://example.com/images/to-kill-a-mockingbird.jpg",
+    "author_name": "Harper Lee",
+    "category": "Fiction",
+    "rating": 4.8,
+    "price": 10.99,
+    "description": "A timeless classic that explores the depths of human morality and empathy in the racially divided American South."
+  },
+  {
+    "_id": "22",
+    "title": "1984",
+    "service_id": "002",
+    "image": "https://example.com/images/1984.jpg",
+    "author_name": "George Orwell",
+    "category": "Dystopian",
+    "rating": 4.6,
+    "price": 9.99,
+    "description": "A chilling portrayal of a totalitarian world, offering insights into freedom, control, and resistance."
+  },
+  {
+    "_id": "33",
+    "title": "The Great Gatsby",
+    "service_id": "003",
+    "image": "https://example.com/images/the-great-gatsby.jpg",
+    "author_name": "F. Scott Fitzgerald",
+    "category": "Classic",
+    "rating": 4.4,
+    "price": 8.99,
+    "description": "A tragic love story that examines the American Dream's glittering yet hollow promises."
+  },
+  {
+    "_id": "44",
+    "title": "The Catcher in the Rye",
+    "service_id": "004",
+    "image": "https://example.com/images/the-catcher-in-the-rye.jpg",
+    "author_name": "J.D. Salinger",
+    "category": "Literature",
+    "rating": 4.2,
+    "price": 7.99,
+    "description": "A story of teenage alienation and the search for authenticity in a superficial world."
+  },
+  {
+    "_id": "55",
+    "title": "The Hobbit",
+    "service_id": "005",
+    "image": "https://example.com/images/the-hobbit.jpg",
+    "author_name": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "rating": 4.7,
+    "price": 12.99,
+    "description": "A fantastical journey of a hobbit who finds courage and companionship on an adventure to reclaim a lost kingdom."
+  },
+  {
+    "_id": "66",
+    "title": "The 66 Hobbit",
+    "service_id": "005",
+    "image": "https://example.com/images/the-hobbit.jpg",
+    "author_name": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "rating": 4.7,
+    "price": 12.99,
+    "description": "A fantastical journey of a hobbit who finds courage and companionship on an adventure to reclaim a lost kingdom."
+  },
+  {
+    "_id": "77",
+    "title": "The 77 Hobbit",
+    "service_id": "005",
+    "image": "https://example.com/images/the-hobbit.jpg",
+    "author_name": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "rating": 4.7,
+    "price": 12.99,
+    "description": "A fantastical journey of a hobbit who finds courage and companionship on an adventure to reclaim a lost kingdom."
+  },
+  {
+    "_id": "88",
+    "title": "The 88 Hobbit",
+    "service_id": "005",
+    "image": "https://example.com/images/the-hobbit.jpg",
+    "author_name": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "rating": 4.7,
+    "price": 12.99,
+    "description": "A fantastical journey of a hobbit who finds courage and companionship on an adventure to reclaim a lost kingdom."
+  },
+  {
+    "_id": "99",
+    "title": "The 99 Hobbit",
+    "service_id": "005",
+    "image": "https://example.com/images/the-hobbit.jpg",
+    "author_name": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "rating": 4.7,
+    "price": 12.99,
+    "description": "A fantastical journey of a hobbit who finds courage and companionship on an adventure to reclaim a lost kingdom."
+  },
+  {
+    "_id": "100",
+    "title": "The 10 Hobbit",
+    "service_id": "005",
+    "image": "https://example.com/images/the-hobbit.jpg",
+    "author_name": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "rating": 4.7,
+    "price": 12.99,
+    "description": "A fantastical journey of a hobbit who finds courage and companionship on an adventure to reclaim a lost kingdom."
+  }
+]
