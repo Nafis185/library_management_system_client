@@ -1,6 +1,8 @@
 import { Link } from "react-router-dom";
-import { createUserWithEmailAndPassword } from "firebase/auth";
+import { createUserWithEmailAndPassword, getAuth } from "firebase/auth";
+import { useContext } from "react";
 
+import { AuthContext } from "../../../Providers/AuthProvider";
 const Login = () => {
 
   const {signIn} = useContext(AuthContext);

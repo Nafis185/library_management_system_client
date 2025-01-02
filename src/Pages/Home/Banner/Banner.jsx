@@ -5,7 +5,7 @@ import img4 from '../../../assets/images/banner/4.jpg';
 import img5 from '../../../assets/images/banner/5.jpg';
 import img6 from '../../../assets/images/banner/6.jpg';
 
-
+import { Link } from "react-router-dom";
 
 
 const Banner = () => {
@@ -23,6 +23,7 @@ const Banner = () => {
             <div className="flex gap-5   ">
               <button className="btn btn-primary ">Shop Now</button>
               <button className="btn btn-primary btn-outline">About Us</button>
+              
             </div>
           </div>
         </div>
